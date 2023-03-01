@@ -1,0 +1,25 @@
+main{
+  border: 10px solid #4285f4;
+  width: 350px;
+  color:white;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Shantell Sans', cursive;
+}
+p{
+  margin: 0px;
+  padding: 40px 0px;
+  text-align: center;
+}
+.one {
+  background:#E67676;
+}
+.two {
+  background:#F2F062;
+}
+.three {
+  background:#A9E6E6;
+}
+.four {
+  background:#7692E4;
+}
